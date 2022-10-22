@@ -23,6 +23,5 @@ public class CPFTest {
         String numero = "123.456.789-00";
         CPF cpf = new CPF(numero);
         assertEquals(numero, cpf.getNumero());
-
     }
 }

@@ -32,22 +32,6 @@ public class TelefoneTest {
         assertThrows(IllegalArgumentException.class, () -> new Telefone( "21", "123"));
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     @Test
     void deveriaCriarTelefoneComDDDValido () {
 

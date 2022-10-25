@@ -6,6 +6,10 @@
     <modules>
         <module>domain</module>
 		<module>infra</module>
+        <module>Aplicacao</module>
+		<module>aplicacao</module>
+		<module>aplicacao</module>
+		<module>aplicacao2</module>
 	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>

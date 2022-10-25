@@ -1,3 +1,5 @@
+package aluno;
+
 import aluno.aluno.*;
 import aluno.aluno.exceptions.AlunoNaoEncontradoException;
 

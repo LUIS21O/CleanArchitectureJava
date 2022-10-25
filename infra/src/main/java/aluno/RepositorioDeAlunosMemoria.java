@@ -1,3 +1,5 @@
+package aluno;
+
 import aluno.aluno.Aluno;
 import aluno.aluno.AlunosRepository;
 import aluno.aluno.CPF;
